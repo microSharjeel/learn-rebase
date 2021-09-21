@@ -2,7 +2,7 @@
 int main()
 
 {
-	printf("for more info pull changes from github\n");
+	//printf("for more info pull changes from github\n");
 	int * y;
 	y = new int; 
 	printf("garbage value of pointer %d\n",*y);
